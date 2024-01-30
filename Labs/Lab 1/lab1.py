@@ -3,6 +3,7 @@
 x = [1, 2, 3]
 print('x*3', x*3)
 
+# this imports numpy and renames it to np
 import numpy as np
 
 y = np.array([1,2,3])
