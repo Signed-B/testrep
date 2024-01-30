@@ -42,6 +42,7 @@ y = np.arange(0, 10, 0.1)
 
 # 2 and 3
 
+# this is a print statement that prints the first three entries of x
 print('the first three entries of x are', x[0:3])
 
 # 4 
