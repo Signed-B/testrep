@@ -16,6 +16,7 @@ print('this is 3y', 3*y)
 
 # 3.1.3
 
+# This is an import statement that imports the matplotlib.pyplot library and renames it to plt
 import matplotlib.pyplot as plt
 
 X = np.linspace(0,2*np.pi,100)
