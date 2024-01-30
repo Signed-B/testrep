@@ -29,6 +29,7 @@ plt.xlabel('x')
 plt.ylabel('y')
 plt.show()
 
+# this is a print statement that prints the size of X
 print('size of X', X.size)
 print('linspace works by creating a vector of 100 evenly spaced points between 0 and 2pi')
 
