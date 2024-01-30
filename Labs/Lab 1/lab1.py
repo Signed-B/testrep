@@ -11,6 +11,7 @@ print('y*3', y*3)
 
 # 3.1.2
 
+# This is a print statement that prints a statement.
 print('this is 3y', 3*y)
 
 # 3.1.3
